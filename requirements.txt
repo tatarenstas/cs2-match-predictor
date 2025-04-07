@@ -1,0 +1,6 @@
+numpy==1.23.5
+pandas==1.5.2
+joblib==1.2.0
+scikit-learn==1.1.2
+beautifulsoup4==4.12.3
+undetected-chromedriver==3.5.5

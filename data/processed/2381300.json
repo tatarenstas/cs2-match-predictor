@@ -1,0 +1,598 @@
+{
+    "date": "2025-04-06",
+    "map": "Dust2",
+    "team1": {
+        "name": "g2",
+        "valve_points": 1709,
+        "win_rate": 57.8,
+        "map_win_rate": 75.0,
+        "recent_matches": [
+            "L",
+            "L",
+            "W",
+            "W",
+            "W",
+            "W",
+            "L",
+            "L",
+            "W",
+            "W"
+        ],
+        "players": [
+            {
+                "name": "HeavyGod",
+                "stats": [
+                    {
+                        "rating2.0": 0.92,
+                        "kd": 1.0,
+                        "map": "Inferno"
+                    },
+                    {
+                        "rating2.0": 1.25,
+                        "kd": 1.36,
+                        "map": "Mirage"
+                    },
+                    {
+                        "rating2.0": 0.53,
+                        "kd": 0.42,
+                        "map": "Nuke"
+                    },
+                    {
+                        "rating2.0": 0.48,
+                        "kd": 0.5,
+                        "map": "Inferno"
+                    },
+                    {
+                        "rating2.0": 1.47,
+                        "kd": 2.0,
+                        "map": "Dust2"
+                    },
+                    {
+                        "rating2.0": 1.47,
+                        "kd": 1.71,
+                        "map": "Ancient"
+                    },
+                    {
+                        "rating2.0": 1.07,
+                        "kd": 0.87,
+                        "map": "Inferno"
+                    },
+                    {
+                        "rating2.0": 1.33,
+                        "kd": 2.0,
+                        "map": "Ancient"
+                    },
+                    {
+                        "rating2.0": 1.23,
+                        "kd": 1.57,
+                        "map": "Inferno"
+                    },
+                    {
+                        "rating2.0": 1.09,
+                        "kd": 0.88,
+                        "map": "Anubis"
+                    }
+                ]
+            },
+            {
+                "name": "Snax",
+                "stats": [
+                    {
+                        "rating2.0": 1.12,
+                        "kd": 1.06,
+                        "map": "Inferno"
+                    },
+                    {
+                        "rating2.0": 1.15,
+                        "kd": 1.0,
+                        "map": "Mirage"
+                    },
+                    {
+                        "rating2.0": 0.58,
+                        "kd": 0.57,
+                        "map": "Nuke"
+                    },
+                    {
+                        "rating2.0": 0.77,
+                        "kd": 0.71,
+                        "map": "Inferno"
+                    },
+                    {
+                        "rating2.0": 1.2,
+                        "kd": 1.75,
+                        "map": "Dust2"
+                    },
+                    {
+                        "rating2.0": 1.04,
+                        "kd": 0.94,
+                        "map": "Ancient"
+                    },
+                    {
+                        "rating2.0": 0.93,
+                        "kd": 0.93,
+                        "map": "Inferno"
+                    },
+                    {
+                        "rating2.0": 1.08,
+                        "kd": 1.08,
+                        "map": "Ancient"
+                    },
+                    {
+                        "rating2.0": 0.64,
+                        "kd": 0.44,
+                        "map": "Inferno"
+                    },
+                    {
+                        "rating2.0": 1.06,
+                        "kd": 1.0,
+                        "map": "Anubis"
+                    }
+                ]
+            },
+            {
+                "name": "m0NESY",
+                "stats": [
+                    {
+                        "rating2.0": 1.34,
+                        "kd": 1.22,
+                        "map": "Inferno"
+                    },
+                    {
+                        "rating2.0": 1.26,
+                        "kd": 1.5,
+                        "map": "Mirage"
+                    },
+                    {
+                        "rating2.0": 1.09,
+                        "kd": 1.07,
+                        "map": "Nuke"
+                    },
+                    {
+                        "rating2.0": 0.88,
+                        "kd": 1.08,
+                        "map": "Inferno"
+                    },
+                    {
+                        "rating2.0": 1.5,
+                        "kd": 1.5,
+                        "map": "Dust2"
+                    },
+                    {
+                        "rating2.0": 1.4,
+                        "kd": 1.53,
+                        "map": "Ancient"
+                    },
+                    {
+                        "rating2.0": 1.77,
+                        "kd": 1.88,
+                        "map": "Inferno"
+                    },
+                    {
+                        "rating2.0": 1.85,
+                        "kd": 2.3,
+                        "map": "Ancient"
+                    },
+                    {
+                        "rating2.0": 1.07,
+                        "kd": 1.0,
+                        "map": "Inferno"
+                    },
+                    {
+                        "rating2.0": 1.04,
+                        "kd": 0.88,
+                        "map": "Anubis"
+                    }
+                ]
+            },
+            {
+                "name": "malbsMd",
+                "stats": [
+                    {
+                        "rating2.0": 1.08,
+                        "kd": 1.0,
+                        "map": "Inferno"
+                    },
+                    {
+                        "rating2.0": 1.3,
+                        "kd": 1.21,
+                        "map": "Mirage"
+                    },
+                    {
+                        "rating2.0": 0.55,
+                        "kd": 0.4,
+                        "map": "Nuke"
+                    },
+                    {
+                        "rating2.0": 0.76,
+                        "kd": 0.58,
+                        "map": "Inferno"
+                    },
+                    {
+                        "rating2.0": 1.81,
+                        "kd": 1.7,
+                        "map": "Dust2"
+                    },
+                    {
+                        "rating2.0": 0.64,
+                        "kd": 0.62,
+                        "map": "Ancient"
+                    },
+                    {
+                        "rating2.0": 0.89,
+                        "kd": 0.73,
+                        "map": "Inferno"
+                    },
+                    {
+                        "rating2.0": 0.87,
+                        "kd": 0.69,
+                        "map": "Ancient"
+                    },
+                    {
+                        "rating2.0": 1.31,
+                        "kd": 1.06,
+                        "map": "Inferno"
+                    },
+                    {
+                        "rating2.0": 0.89,
+                        "kd": 0.76,
+                        "map": "Anubis"
+                    }
+                ]
+            },
+            {
+                "name": "huNter-",
+                "stats": [
+                    {
+                        "rating2.0": 1.33,
+                        "kd": 1.33,
+                        "map": "Inferno"
+                    },
+                    {
+                        "rating2.0": 1.37,
+                        "kd": 1.8,
+                        "map": "Mirage"
+                    },
+                    {
+                        "rating2.0": 0.28,
+                        "kd": 0.29,
+                        "map": "Nuke"
+                    },
+                    {
+                        "rating2.0": 0.65,
+                        "kd": 0.5,
+                        "map": "Inferno"
+                    },
+                    {
+                        "rating2.0": 1.38,
+                        "kd": 1.6,
+                        "map": "Dust2"
+                    },
+                    {
+                        "rating2.0": 0.83,
+                        "kd": 0.73,
+                        "map": "Ancient"
+                    },
+                    {
+                        "rating2.0": 0.79,
+                        "kd": 0.88,
+                        "map": "Inferno"
+                    },
+                    {
+                        "rating2.0": 1.17,
+                        "kd": 1.21,
+                        "map": "Ancient"
+                    },
+                    {
+                        "rating2.0": 1.05,
+                        "kd": 0.94,
+                        "map": "Inferno"
+                    },
+                    {
+                        "rating2.0": 1.22,
+                        "kd": 1.54,
+                        "map": "Anubis"
+                    }
+                ]
+            }
+        ]
+    },
+    "team2": {
+        "name": "rare-atom",
+        "valve_points": 1042,
+        "win_rate": 73.8,
+        "map_win_rate": 80.0,
+        "recent_matches": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "L",
+            "W",
+            "L",
+            "L",
+            "W",
+            "W"
+        ],
+        "players": [
+            {
+                "name": "\nkaze\n",
+                "stats": [
+                    {
+                        "rating2.0": 1.25,
+                        "kd": 1.36,
+                        "map": "Ancient"
+                    },
+                    {
+                        "rating2.0": 1.18,
+                        "kd": 1.5,
+                        "map": "Mirage"
+                    },
+                    {
+                        "rating2.0": 0.59,
+                        "kd": 0.7,
+                        "map": "Ancient"
+                    },
+                    {
+                        "rating2.0": 0.76,
+                        "kd": 0.75,
+                        "map": "Mirage"
+                    },
+                    {
+                        "rating2.0": 1.13,
+                        "kd": 1.11,
+                        "map": "Inferno"
+                    },
+                    {
+                        "rating2.0": 0.88,
+                        "kd": 0.92,
+                        "map": "Mirage"
+                    },
+                    {
+                        "rating2.0": 1.03,
+                        "kd": 1.0,
+                        "map": "Anubis"
+                    },
+                    {
+                        "rating2.0": 0.98,
+                        "kd": 0.95,
+                        "map": "Inferno"
+                    },
+                    {
+                        "rating2.0": 1.14,
+                        "kd": 1.4,
+                        "map": "Mirage"
+                    },
+                    {
+                        "rating2.0": 1.68,
+                        "kd": 4.0,
+                        "map": "Mirage"
+                    }
+                ]
+            },
+            {
+                "name": "\nSummer\n",
+                "stats": [
+                    {
+                        "rating2.0": 1.48,
+                        "kd": 1.31,
+                        "map": "Ancient"
+                    },
+                    {
+                        "rating2.0": 1.39,
+                        "kd": 1.3,
+                        "map": "Mirage"
+                    },
+                    {
+                        "rating2.0": 0.73,
+                        "kd": 0.79,
+                        "map": "Ancient"
+                    },
+                    {
+                        "rating2.0": 0.74,
+                        "kd": 0.67,
+                        "map": "Mirage"
+                    },
+                    {
+                        "rating2.0": 1.41,
+                        "kd": 2.33,
+                        "map": "Inferno"
+                    },
+                    {
+                        "rating2.0": 0.85,
+                        "kd": 0.93,
+                        "map": "Mirage"
+                    },
+                    {
+                        "rating2.0": 1.1,
+                        "kd": 0.95,
+                        "map": "Anubis"
+                    },
+                    {
+                        "rating2.0": 1.18,
+                        "kd": 1.14,
+                        "map": "Inferno"
+                    },
+                    {
+                        "rating2.0": 1.39,
+                        "kd": 1.64,
+                        "map": "Mirage"
+                    },
+                    {
+                        "rating2.0": 1.41,
+                        "kd": 1.22,
+                        "map": "Mirage"
+                    }
+                ]
+            },
+            {
+                "name": "\nsomebody\n",
+                "stats": [
+                    {
+                        "rating2.0": 1.33,
+                        "kd": 1.29,
+                        "map": "Ancient"
+                    },
+                    {
+                        "rating2.0": 1.6,
+                        "kd": 1.86,
+                        "map": "Mirage"
+                    },
+                    {
+                        "rating2.0": 0.92,
+                        "kd": 0.87,
+                        "map": "Ancient"
+                    },
+                    {
+                        "rating2.0": 0.75,
+                        "kd": 0.64,
+                        "map": "Mirage"
+                    },
+                    {
+                        "rating2.0": 1.18,
+                        "kd": 1.6,
+                        "map": "Inferno"
+                    },
+                    {
+                        "rating2.0": 0.99,
+                        "kd": 0.89,
+                        "map": "Mirage"
+                    },
+                    {
+                        "rating2.0": 1.0,
+                        "kd": 0.94,
+                        "map": "Anubis"
+                    },
+                    {
+                        "rating2.0": 1.15,
+                        "kd": 1.17,
+                        "map": "Inferno"
+                    },
+                    {
+                        "rating2.0": 1.2,
+                        "kd": 1.0,
+                        "map": "Mirage"
+                    },
+                    {
+                        "rating2.0": 1.89,
+                        "kd": 4.25,
+                        "map": "Mirage"
+                    }
+                ]
+            },
+            {
+                "name": "\nChildKing\n",
+                "stats": [
+                    {
+                        "rating2.0": 1.02,
+                        "kd": 0.76,
+                        "map": "Ancient"
+                    },
+                    {
+                        "rating2.0": 1.02,
+                        "kd": 1.0,
+                        "map": "Mirage"
+                    },
+                    {
+                        "rating2.0": 0.97,
+                        "kd": 1.0,
+                        "map": "Ancient"
+                    },
+                    {
+                        "rating2.0": 0.64,
+                        "kd": 0.5,
+                        "map": "Mirage"
+                    },
+                    {
+                        "rating2.0": 1.41,
+                        "kd": 1.18,
+                        "map": "Inferno"
+                    },
+                    {
+                        "rating2.0": 1.34,
+                        "kd": 1.19,
+                        "map": "Mirage"
+                    },
+                    {
+                        "rating2.0": 1.14,
+                        "kd": 1.0,
+                        "map": "Anubis"
+                    },
+                    {
+                        "rating2.0": 1.57,
+                        "kd": 1.5,
+                        "map": "Inferno"
+                    },
+                    {
+                        "rating2.0": 1.71,
+                        "kd": 1.73,
+                        "map": "Mirage"
+                    },
+                    {
+                        "rating2.0": 1.94,
+                        "kd": 2.38,
+                        "map": "Mirage"
+                    }
+                ]
+            },
+            {
+                "name": "\nL1haNg\n",
+                "stats": [
+                    {
+                        "rating2.0": 1.03,
+                        "kd": 1.08,
+                        "map": "Ancient"
+                    },
+                    {
+                        "rating2.0": 1.43,
+                        "kd": 1.4,
+                        "map": "Mirage"
+                    },
+                    {
+                        "rating2.0": 0.59,
+                        "kd": 0.47,
+                        "map": "Ancient"
+                    },
+                    {
+                        "rating2.0": 1.11,
+                        "kd": 0.88,
+                        "map": "Mirage"
+                    },
+                    {
+                        "rating2.0": 2.09,
+                        "kd": 3.0,
+                        "map": "Inferno"
+                    },
+                    {
+                        "rating2.0": 1.14,
+                        "kd": 1.13,
+                        "map": "Mirage"
+                    },
+                    {
+                        "rating2.0": 1.3,
+                        "kd": 1.44,
+                        "map": "Anubis"
+                    },
+                    {
+                        "rating2.0": 1.12,
+                        "kd": 0.96,
+                        "map": "Inferno"
+                    },
+                    {
+                        "rating2.0": 1.14,
+                        "kd": 1.14,
+                        "map": "Mirage"
+                    },
+                    {
+                        "rating2.0": 1.27,
+                        "kd": 1.33,
+                        "map": "Mirage"
+                    }
+                ]
+            }
+        ]
+    },
+    "head_to_head": {
+        "team1_winrate": 0,
+        "team2_winrate": 0
+    }
+}
