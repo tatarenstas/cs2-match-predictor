@@ -10,6 +10,9 @@ map_player_dict = {'trn': 'Train', 'nuke': 'Nuke', 'd2': 'Dust2', 'mrg': 'Mirage
 map_team_dict = {'Dust2': 31, 'Mirage': 32, 'Inferno': 33, 'Nuke': 34, 'Train': 35, 'Vertigo': 46, 'Ancient': 47, 'Anubis': 48}
 reverse_map_team_dict = {v: k for k, v in map_team_dict.items()}
 
+team1_name = 'team1'
+team2_name = 'team2'
+
 driver = uc.Chrome()
 
 def fetch_page(url):
@@ -101,6 +104,7 @@ def prepare_match(url, map):
     date = datetime.fromtimestamp(unix) - timedelta(days=1)
     map_code = map_team_dict[map]
 
+    global team1_name, team2_name
     team1 = html.find(class_='team1-gradient')
     team1_name = team1.find('a')['href'].split('/')[-1]
     team1_id = team1.find('a')['href'].split('/')[-2]
@@ -201,11 +205,11 @@ def predict_match(match_for_predict):
     return predicted_winner, team1_prob, team2_prob
 
 
-match_for_predict = prepare_match('https://www.hltv.org/matches/2381300/g2-vs-rare-atom-pgl-bucharest-2025', 'Ancient')
+match_for_predict = prepare_match('https://www.hltv.org/matches/2381303/liquid-vs-virtuspro-pgl-bucharest-2025', 'Dust2')
 
 model = joblib.load('model/cs2_model.pkl')
 predicted_winner, team1_prob, team2_prob = predict_match(match_for_predict)
 
-print(f'Predicted winner: {predicted_winner}')
-print(f'Team1 win probability: {team1_prob:.2f}%')
-print(f'Team2 win probability: {team2_prob:.2f}%')
+print(f'Predicted winner: {team1_name if predicted_winner == "team1" else team2_name}')
+print(f'{team1_name} win probability: {team1_prob:.2f}%')
+print(f'{team2_name} win probability: {team2_prob:.2f}%')
